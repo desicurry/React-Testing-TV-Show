@@ -80,6 +80,8 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  color: white;
+  background-color: red;
 }
 
 .episode-info > h3,
